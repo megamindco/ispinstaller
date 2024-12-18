@@ -21,12 +21,12 @@ To use this script:
 1. Save the script to a file, e.g., `install_ispconfig.sh`.
 2. Make the script executable:
    ```sh
-   chmod +x install_ispconfig.sh
+   chmod +x isp.sh
    ```
 3. Run the script:
    ```sh
-   sudo ./install_ispconfig.sh
+   sudo ./isp.sh
    ```
-(1) Services and Functions - ISPConfig. https://www.ispconfig.org/ispconfig/services-and-functions/.
-(2) Documentation - ISPConfig. https://www.ispconfig.org/documentation/.
-(3) ISPConfig - Wikipedia. https://en.wikipedia.org/wiki/ISPConfig.
+1. Services and Functions - ISPConfig. https://www.ispconfig.org/ispconfig/services-and-functions/.
+2. Documentation - ISPConfig. https://www.ispconfig.org/documentation/.
+3. ISPConfig - Wikipedia. https://en.wikipedia.org/wiki/ISPConfig.
